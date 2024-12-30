@@ -3,7 +3,7 @@
 ### 👩‍💻 &nbsp;About Me
 - 🎓 UBC Computer Science student
 - 🌱 Interested in Frontend Design
-- 🏠 Visit My Website
+- 🏠 [Visit My Website](https://emmahy-park.github.io/3d_portfolio/)
 - 📧 How to reach me **emmapk@student.ubc.ca**
 
 <h3 align="left">📫 Connect with me:</h3>
